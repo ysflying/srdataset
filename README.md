@@ -42,13 +42,13 @@ in IEEE Transactions on Radar Systems.  <https://doi.org/doi: 10.1109/TRS.2023.3
 
 ![](Aspose.Words.bc421174-e84a-4991-8d1e-8c98dfa1f5e0.001.jpeg)
 ## <a name="_toc157621151"></a>**Background reading for the used radar system:** 
-**3-d ego-motion estimation using multi-channel fmcw radar**
+**3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**
 
-S.Yuan, F. Fioranelli, A. Yarovoy: <a name="_hlk157619917"></a>*3-d ego-motion estimation using multi-channel fmcw radar*.
+S.Yuan, F. Fioranelli, A. Yarovoy: <a name="_hlk157619917"></a>*3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application*.
 
-in IEEE Transactions on Radar Systems.  <https://doi.org/doi: 10.1109/TRS.2023.3299180> 
+  <https://doi.org/10.48550/arXiv.2402.13062> 
 
-[Link:](https://doi.org/doi: 10.1109/TRS.2023.3299180) <https://doi.org/doi: 10.1109/TRS.2023.3299180> 
+[Link:](https://doi.org/10.48550/arXiv.2402.13062) <https://doi.org/10.48550/arXiv.2402.13062> 
 
 ## <a name="_toc157621152"></a>**Matlab read file**
 Drawing the 3d imaging results: 	main_draw_houseding.m 

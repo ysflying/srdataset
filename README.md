@@ -51,7 +51,8 @@ S.Yuan, F. Fioranelli, A. Yarovoy: <a name="_hlk157619917"></a>*3D high-resoluti
 [Link:](https://doi.org/10.48550/arXiv.2402.13062) <https://doi.org/10.48550/arXiv.2402.13062> 
 
 ## <a name="_toc157621152"></a>**Matlab read file**
-Drawing the 3d imaging results: 	main_draw_houseding.m 
+Drawing the 3d imaging simulated housing model results: 	main_draw_houseding.m 
+Drawing the 3d imaging simulated human model results: 	main_draw_humanding.m 
 
 
 ### <a name="_toc157621158"></a>**Description and notification table**
@@ -60,6 +61,8 @@ Drawing the 3d imaging results: 	main_draw_houseding.m
 | :-: | :-: | 
 |Imaging_results_from_simulated_houseding|'main_simulated_houseding_sidelooking.mat'|
 |Target_model_houseding|'houseding.mat'|
+|Imaging_results_from_simulated_humanding|'main_simulated_humanding_sidelooking.mat'|
+|Target_model_humanding|'human.mat'|
 |Radar_range_information|'r512.mat'|
 ###
 
